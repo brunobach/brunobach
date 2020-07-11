@@ -1,6 +1,6 @@
 ### Hi there 👋
 <div align="center">
-    	<img src="https://brunobach.herokuapp.com/image" width="800" height="350">
+    	<img src="https://brunobach.herokuapp.com/image">
 </div>
 
 <!--
