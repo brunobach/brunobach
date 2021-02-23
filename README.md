@@ -11,7 +11,7 @@
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5551980642399&text=Olá!)](https://api.whatsapp.com/send?phone=5551980642399&text=Olá!)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=telegram&logoColor=white&link=https://t.me/brunobach)](https://t.me/brunobach)
 
-I am Bruno Bach 😃. I am from Sao Leopoldo/RS, computer engineering student, and javascript developer, passionate about technology who loves to test a new lib every week
+I am Bruno Bach 😃. I am from Florianópolis/SC, computer engineering student, and javascript developer, passionate about technology who loves to test a new lib every week
 ## ⚡ Technologies
 Talk to me about
 - Front-end development using **ReactJS, VueJS, Angular**
