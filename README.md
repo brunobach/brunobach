@@ -8,7 +8,6 @@
 
  [![Linkedin Badge](https://img.shields.io/badge/-brunobach-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bruno-bach/)](https://www.linkedin.com/in/bruno-bach/) [![Outlook Badge](https://img.shields.io/badge/-brunobach_sl-informational?style=flat-square&labelColor=9&logo=Microsoft-Outlook&link=mailto:brunobach_sl@hotmail.com)](mailto:brunobach_sl@hotmail.com)
 [![Gmail Badge](https://img.shields.io/badge/-bruno.bach13-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bruno.bach13@gmail.com)](mailto:bruno.bach13@gmail.com)
-[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5551980642399&text=Olá!)](https://api.whatsapp.com/send?phone=5551980642399&text=Olá!)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=telegram&logoColor=white&link=https://t.me/brunobach)](https://t.me/brunobach)
 
 I am Bruno Bach 😃. I am from Florianópolis/SC, computer engineering student, and javascript developer, passionate about technology who loves to test a new lib every week
